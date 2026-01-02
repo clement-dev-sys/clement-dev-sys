@@ -30,21 +30,11 @@ Je m’intéresse particulièrement à :
 
 ## 🛠️ Compétences techniques
 
-### Langages
-- **C, C++**
-- **Python**
-- Java
-
-### Systèmes & environnements
-- Linux
-- Développement bas niveau
-- Systèmes embarqués
-
-### Outils & technologies
-- Git
-- SQL
-- Environnements de développement embarqué
-- Debugging & tests
+| Langages | Systèmes & Environnements | Outils & Technologies |
+|---|---|---|
+| C, C++ | Linux | Git |
+| Python | Développement bas niveau | SQL |
+| Java | Systèmes embarqués | Debugging et tests |
 
 ---
 
